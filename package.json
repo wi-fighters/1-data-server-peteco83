@@ -1,0 +1,26 @@
+{
+  "name": "1-data-server-peteco83",
+  "version": "1.0.0",
+  "description": "## Task 01 -",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wi-fighters/1-data-server-peteco83.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wi-fighters/1-data-server-peteco83/issues"
+  },
+  "homepage": "https://github.com/wi-fighters/1-data-server-peteco83#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
