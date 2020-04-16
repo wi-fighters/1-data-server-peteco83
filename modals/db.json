@@ -2,6 +2,10 @@
   "records": [
     {
       "name": "New Kids on the block"
+    },
+    {
+      "name": "New Kids on the block",
+      "song": "Tonight"
     }
   ]
 }

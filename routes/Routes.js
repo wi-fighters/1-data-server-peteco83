@@ -4,8 +4,8 @@ const {getAllRecords, addRecords} = require("../controller/records")
 
 // Route.get("/", getIndexHtml)
 
-Route.get("/getallrecords", getAllRecords)
+Route.get("/records", getAllRecords)
 
-Route.post("/addrecords", addRecords)
+Route.post("/records", addRecords)
 
 module.exports = Route
